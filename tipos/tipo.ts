@@ -20,7 +20,6 @@ let endereco: [string, number] = ["Av principal", 99]
 console.log(endereco)
 
 // enums
-
 enum Cor {
   Cinza = 'CINZA',
   Verde = 'VERDE',
